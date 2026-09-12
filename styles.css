@@ -24,8 +24,8 @@ body{
 
 header{
 
-    background:#1e293b;
-    color:white;
+    background:#176f72;
+    color:rgb(201, 166, 166);
 
     padding:20px;
 
@@ -45,7 +45,7 @@ header{
 
 .logo p{
 
-    color:#cbd5e1;
+    color:#d1297d;
 
     margin-top:5px;
 
@@ -78,7 +78,7 @@ header{
 
 .categorias{
 
-    background:white;
+    background:rgb(61, 60, 121);
 
     display:flex;
     justify-content:center;
@@ -88,7 +88,7 @@ header{
 
     padding:20px;
 
-    box-shadow:0 3px 8px rgba(0,0,0,.08);
+    box-shadow:0 3px 8px rgba(141, 24, 24, 0.08);
 
 }
 
@@ -96,7 +96,7 @@ header{
 
     border:none;
 
-    background:#e2e8f0;
+    background:#838d49;
 
     padding:12px 20px;
 
@@ -112,15 +112,15 @@ header{
 
 .categorias button:hover{
 
-    background:#2563eb;
-    color:white;
+    background:#399b57;
+    color:rgb(151, 19, 19);
 
 }
 
 .categorias button.activo{
 
     background:#1d4ed8;
-    color:white;
+    color:rgb(179, 20, 20);
 
 }
 
@@ -161,13 +161,13 @@ main{
 
 .card{
 
-    background:white;
+    background:rgb(194, 41, 41);
 
     border-radius:12px;
 
     overflow:hidden;
 
-    box-shadow:0 5px 12px rgba(0,0,0,.15);
+    box-shadow:0 5px 12px rgba(85, 37, 129, 0.15);
 
     transition:.3s;
 

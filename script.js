@@ -10,8 +10,8 @@ const productos = [
         categoria:"Laptop",
         precio:4500,
         rating:5,
-        descripcion:"Laptop de alto rendimiento con RTX 4070 y Ryzen 9.",
-        imagen:"https://placehold.co/400x250?text=Laptop"
+        descripcion:"Laptop de alto rendimiento con RTX 5050  y Ryzen 9.",
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQksvdn3VbUwgfC_cThsfeHwIM3j3Aehe_-tjhwFXfPxw&s=10"
     },
 
     {
@@ -21,7 +21,7 @@ const productos = [
         precio:5200,
         rating:4,
         descripcion:"Ideal para estudiantes y desarrolladores.",
-        imagen:"https://placehold.co/400x250?text=MacBook"
+        imagen:"https://www.notebookcheck.org/fileadmin/_processed_/4/2/csm_IMG_9062_c665417966.jpg"
     },
 
     {
@@ -31,7 +31,7 @@ const productos = [
         precio:4800,
         rating:5,
         descripcion:"El smartphone más potente de Apple.",
-        imagen:"https://placehold.co/400x250?text=iPhone"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghJ68wKAbvT2hu1omuWkhTRr-9WrJz0tLIMgFf3-J4g&s=10"
     },
 
     {
@@ -41,7 +41,7 @@ const productos = [
         precio:4200,
         rating:4,
         descripcion:"Pantalla AMOLED y excelente cámara.",
-        imagen:"https://placehold.co/400x250?text=Samsung"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyOutoIF1LcBf0NV-xZ9oNDCjszuMeWvT9i13w7V0Sw&s=10"
     },
 
     {
@@ -51,7 +51,7 @@ const productos = [
         precio:1800,
         rating:5,
         descripcion:"Consola híbrida portátil.",
-        imagen:"https://placehold.co/400x250?text=Switch"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRElxjzIjuCrSm00K8O_UlOZRMsQWt9nTSqrocMNodFdQ&s=10"
     },
 
     {
@@ -61,7 +61,7 @@ const productos = [
         precio:2800,
         rating:5,
         descripcion:"Consola de nueva generación.",
-        imagen:"https://placehold.co/400x250?text=PS5"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxOeu-ED1dwMstcfMmUAyRhHOPogbxDlFdFgrgl7XYOA&s=10"
     },
 
     {
@@ -71,7 +71,7 @@ const productos = [
         precio:2700,
         rating:4,
         descripcion:"La consola más potente de Microsoft.",
-        imagen:"https://placehold.co/400x250?text=Xbox"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHHFOCO7bD4rPLwaWz8hSBjh-MOu1WB7ZblMiYM1jzA&s=10"
     },
 
     {
@@ -81,7 +81,7 @@ const productos = [
         precio:280,
         rating:5,
         descripcion:"Mouse gamer de alta precisión.",
-        imagen:"https://placehold.co/400x250?text=Mouse"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1YjT2WGsMYlpsRFmWuX9OlilQaD4cew09u-QWnl5spg&s=10"
     },
 
     {
@@ -91,7 +91,7 @@ const productos = [
         precio:450,
         rating:4,
         descripcion:"Teclado RGB con switches mecánicos.",
-        imagen:"https://placehold.co/400x250?text=Teclado"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhV7uv7FmpeGM7Eqr1TQy5sq2aLFPMleHxB3Mm2aTYA&s"
     },
 
     {
@@ -101,7 +101,7 @@ const productos = [
         precio:1500,
         rating:5,
         descripcion:"27 pulgadas, 165Hz.",
-        imagen:"https://placehold.co/400x250?text=Monitor"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu109sANULXUofGhORPQfhFL0-hzSOMutGQKrHkTxA4g&s=10"
     },
 
     {
@@ -111,7 +111,7 @@ const productos = [
         precio:2500,
         rating:5,
         descripcion:"PC portátil para videojuegos.",
-        imagen:"https://placehold.co/400x250?text=Steam+Deck"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7kvIMK_z4ctZljZa-M3u0bIVyEso-SOXQ_22tC9JsvA&s=10"
     },
 
     {
@@ -121,7 +121,7 @@ const productos = [
         precio:1200,
         rating:4,
         descripcion:"Audio inalámbrico premium.",
-        imagen:"https://placehold.co/400x250?text=AirPods"
+        imagen:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1m92v2hWp2-kUJc3GzG7ybfbtsjf7qVQX2ZkBp-kovA&s=10"
     }
 
 ];
